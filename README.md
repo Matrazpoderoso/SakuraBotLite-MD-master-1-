@@ -1,6 +1,5 @@
-# Scarab
-![build]https://files.fm/u/68f6bt4xhe
 
+![download](https://github.com/user-attachments/assets/beb909d9-9194-4ba3-9d53-a194ff92d3ff)
 
 
 > 🚩🧿Versión Del Bot: 1.0.7
