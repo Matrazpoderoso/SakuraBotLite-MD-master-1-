@@ -54,7 +54,7 @@ termux-setup-storage
 apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 ```bash
-git clone https://github.com/diegojadibot/SakuraBotLite-MD && cd SakuraBotLite-MD
+git clone https://github.com/Matrazpoderoso/SakuraBotLite-MD-master-1- && cd SakuraBotLite-MD
 ```
 ```bash
 yarn install && npm install
@@ -90,13 +90,7 @@ Para que no pierda su progreso en SakuraBot, estos comandos realizarán un respa
 - ### 📍 Activar En Heroku 🚀
 para usuarios del heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/diegojadibot/SakuraBotLite-MD)
 
-#### Heroku Buildpack
-| BuildPack | LINK |
-|--------|--------|
-| **FFMPEG** |[click](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest) |
-| **IMAGEMAGICK** | [click](https://github.com/DuckyTeam/heroku-buildpack-imagemagick) |
 
 ***
 
