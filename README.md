@@ -41,7 +41,7 @@ termux-setup-storage
 ```
 
 ```bash
-apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/diegojadibot/SakuraBotLite-MD/master/sakura.sh | bash
+apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://github.com/Matrazpoderoso/SakuraBotLite-MD-master-1-/blob/main/README.md. | bash
 ```
 
 - #### 📍Instalacion Por Termux Manual👨‍💻
