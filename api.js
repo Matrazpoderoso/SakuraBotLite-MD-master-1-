@@ -68,6 +68,7 @@ global.rpg = {
   emoticon(string) {
     string = string.toLowerCase();
     const emot = {
+      
       level: '🧬 Nivel',
       limit: '💎 Diamante',
       exp: '⚡ Experiencia',
@@ -245,6 +246,9 @@ global.rpgg = { // Solo emojis
       fideos: '🍝',
       ramuan: '🧪',
       knife: '🔪',
+      sexo: '🥵', 
+      Rico: '😏', 
+      
     };
     const results = Object.keys(emott).map((v) => [v, new RegExp(v, 'gi')]).filter((v) => v[1].test(string));
     if (!results.length) return '';
