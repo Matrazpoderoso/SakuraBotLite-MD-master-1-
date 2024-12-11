@@ -16,18 +16,10 @@
 
 
 - ### 🌤Configuracion🧩
- Clonar Repo : SakuraBot [Aqui.](https://github.com/diegojadibot/SakuraBotLite-MD/fork)
+ Clonar Repo : SakuraBot [Aqui.](https://github.com/Matrazpoderoso/SakuraBotLite-MD-master-1-/blob/main/README.md)
 
    
   
-- ### 🧸Instalar Por Render🧩
-
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2diegojadibot%2FSakuraBotLite-MD) 
-
-- ### 📍Instalar Por Code Space🧸
-
-[`CREAR SERVIDOR`](https://github.com/codespaces/new?skip_quickstart=true&machine=basicLinux32gb&repo=738341999&ref=main&geo=UsEast)
-***
 
 - #### 📍Instalacion Por Termux Automatica🧸
 
